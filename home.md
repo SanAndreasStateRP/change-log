@@ -2,11 +2,11 @@
 title: SAFR-RP Change Log [Powered by Cloud Data Hosting]
 description: SAFR-RP
 published: true
-date: 2024-04-03T05:31:00.519Z
+date: 2025-02-21T16:13:27.596Z
 tags: 
 editor: markdown
-dateCreated: 2024-04-03T05:29:12.185Z
+dateCreated: 2025-02-21T16:12:24.734Z
 ---
 
-# SAFR-RP Change Log [Powered by Cloud Data Hosting]
-Welcome to the SAFR-RP Change Logs. Any and all changes made to the VPS server, FiveM server and RedM server will be posted here
+# SASRP Change Log
+Welcome to the SASRP Change Logs.
